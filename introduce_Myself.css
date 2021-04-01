@@ -36,6 +36,14 @@ footer {
     width: 100%;
 	padding: 10px 0;
 }
+/* img{
+  width: 20%;
+  display: flex;
+  justify-self: start;
+  transform: translate(30px,-370px);
+  border-radius: 20px;
+} */
+
 
 /* animation */
 .text-flicker-in-glow {
