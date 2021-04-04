@@ -2,6 +2,7 @@ body{
     background-color: #70b2fa;
     color: white;
     text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1538370965046-79c0d6907d47?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80);
 }
 .title{
     display: block;
@@ -36,13 +37,12 @@ footer {
     width: 100%;
 	padding: 10px 0;
 }
-/* img{
-  width: 20%;
-  display: flex;
-  justify-self: start;
-  transform: translate(30px,-370px);
-  border-radius: 20px;
-} */
+a:link{
+  color: white;
+}
+a:visited{
+  color:whitesmoke;
+}
 
 
 /* animation */
